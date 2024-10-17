@@ -150,9 +150,9 @@
 3. Biggest Island (easy) [Leetcode] https://leetcode.com/problems/max-area-of-island/
 4. Flood Fill (easy) [Leetcode](https://leetcode.com/problems/flood-fill/)
 5. Number of Closed Islands (easy) [Leetcode](https://leetcode.com/problems/number-of-closed-islands/)
-6. Problem Challenge 1 (easy) [Leetcode] https://leetcode.com/problems/island-perimeter/description/
-7. Problem Challenge 2 (medium)[Leetcode] https://leetcode.com/problems/number-of-distinct-islands/description/
-8. Problem Challenge 3 (medium)[Leetcode] https://leetcode.com/problems/detect-cycles-in-2d-grid/description/
+6. Problem Challenge 1 (easy) [Leetcode] (https://leetcode.com/problems/island-perimeter/)
+7. Problem Challenge 2 (medium)[Leetcode] (https://leetcode.com/problems/number-of-distinct-islands/)
+8. Problem Challenge 3 (medium)[Leetcode] (https://leetcode.com/problems/detect-cycles-in-2d-grid/)
 
 
 
