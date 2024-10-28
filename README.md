@@ -18,6 +18,18 @@
 10. Problem Challenge 1: Quadruple Sum to Target (medium) [Leetcode](https://leetcode.com/problems/4sum/)
 11. Problem Challenge 2: Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/)
 12. Problem Challenge 3: Minimum Window Sort (medium) [Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [Ideserve](https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array)
+13. Number of Arithmetic Triplets (easy) [Leetcode](https://leetcode.com/problems/number-of-arithmetic-triplets/)
+14. The Latest Time to Catch a Bus (medium) [Leetcode](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)
+15. Reverse Vowels of a String (easy) [Leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+16. Merge Strings Alternately (easy) [Leetcode](https://leetcode.com/problems/merge-strings-alternately/)
+17. DI String Match (easy) [Leetcode](https://leetcode.com/problems/di-string-match/)
+18. Reverse String II (easy) [Leetcode](https://leetcode.com/problems/reverse-string-ii/)
+19. Reverse Words in a String III (easy) [Leetcode](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+20. Find All K-Distant Indices in an Array (easy) [Leetcode](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
+21. Strobogrammatic Number (easy) [Leetcode](https://leetcode.com/problems/strobogrammatic-number/)
+22. Valid Word Abbreviation (easy) [Leetcode](https://leetcode.com/problems/valid-word-abbreviation/description/)
+23. Long Pressed Name (easy) [Leetcode](https://leetcode.com/problems/long-pressed-name/)
+24. Check If N and Its Double Exist (easy) [Leetcode](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 
 ### 2. Pattern: Fast & Slow pointers
 
