@@ -45,9 +45,9 @@
 ### 3. Pattern: Sliding Window
 
 1. Introduction
-2. Maximum Sum Subarray of Size K (easy)
-3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ)
-4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80)
+2. Maximum Sum Subarray of Size K (medium) [LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+3. Smallest Subarray with a given sum (easy) [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
+4. Longest Substring with K Distinct Characters (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)
 5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
 6. No-repeat Substring (hard) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 7. Longest Substring with Same Letters after Replacement (hard) [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
@@ -56,17 +56,19 @@
 10. Problem Challenge 2: String Anagrams (hard) [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 11. Problem Challenge 3: Smallest Window containing Substring (hard) [Leetcode](https://leetcode.com/problems/minimum-window-substring/)
 12. Problem Challenge 4: Words Concatenation (hard) [Leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+13. Longest Substring with At Least K Repeating Characters (medium) [Leetcode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 
 ### 4. Pattern: Merge Intervals
 
 1. Introduction [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/3YVYvogqXpA)
-2. Merge Intervals (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/3jyVPKRA8yx)
-3. Insert Interval (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/3jKlyNMJPEM)
-4. Intervals Intersection (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/JExVVqRAN9D)
+2. Merge Intervals (medium) [Leetcode](https://leetcode.com/problems/merge-intervals/)
+3. Insert Interval (medium) [Leetcode](https://leetcode.com/problems/insert-interval/)
+4. Intervals Intersection (medium) [Leetcode](https://leetcode.com/problems/interval-list-intersections/)
 5. Conflicting Appointments (medium) [Geeksforgeeks](https://www.geeksforgeeks.org/check-if-any-two-intervals-overlap-among-a-given-set-of-intervals/)
-6. Problem Challenge 1: Minimum Meeting Rooms (hard) [Lintcode](https://www.lintcode.com/problem/meeting-rooms-ii/)
+6. Problem Challenge 1: Minimum Meeting Rooms (hard) [Leetcode](https://leetcode.com/problems/meeting-rooms-ii/)
 7. Problem Challenge 2: Maximum CPU Load (hard) [Geeksforgeeks](https://www.geeksforgeeks.org/maximum-cpu-load-from-the-given-list-of-jobs/)
 8. Problem Challenge 3: Employee Free Time (hard) [CoderTrain](https://www.codertrain.co/employee-free-time)
+9. Determine if Two Events Have Conflict (medium) [Leetcode](https://leetcode.com/problems/determine-if-two-events-have-conflict/)
 
 ### 5. Pattern: Cyclic Sort
 

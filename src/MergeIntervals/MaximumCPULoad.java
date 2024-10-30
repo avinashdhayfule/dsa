@@ -1,3 +1,5 @@
+package src.MergeIntervals;
+
 import java.util.Arrays;
 
 public class MaximumCPULoad {
