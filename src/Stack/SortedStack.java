@@ -1,6 +1,8 @@
 package Stack;
 
+import java.util.ArrayList;
 import java.util.Stack;
+import java.util.TreeSet;
 
 public class SortedStack {
     public static void main(String[] args) {
@@ -21,6 +23,8 @@ public class SortedStack {
         }
 
         Character b = "a".charAt(0);
+        Integer.toString(15, 2);
+        
     }
 
     public static Stack<Integer> sortStack(Stack<Integer> input){
