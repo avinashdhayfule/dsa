@@ -95,8 +95,8 @@
 
 1. Introduction to Stack (Operations, Implementation, Applications)
 2. Balanced Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/description/)
-3. Reverse a String
-4. Decimal to Binary Conversion
+3. Reverse a String [Leetcode](https://leetcode.com/problems/reverse-string/)
+4. Decimal to Binary Conversion [Geeksforgeeks](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 5. Next Greater Element [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
 6. Sorting a Stack
 7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)
