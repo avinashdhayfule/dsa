@@ -98,12 +98,12 @@
 3. Reverse a String [Leetcode](https://leetcode.com/problems/reverse-string/)
 4. Decimal to Binary Conversion [Geeksforgeeks](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 5. Next Greater Element [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
-6. Sorting a Stack
+6. Sorting a Stack [Geeksforgeeks](https://www.geeksforgeeks.org/problems/sort-a-stack/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)
 
 ### 8. Pattern: Monotonic Stack
 
-1. Introduction to Monotonic Stack
+1. Introduction to Monotonic Stack [Design Guru](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-monotonic-stack)
 2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
 3. Daily Temperatures (easy) [Leetcode](https://leetcode.com/problems/daily-temperatures/)
 4. Remove Nodes From Linked List (easy) [Leetcode](https://leetcode.com/problems/remove-nodes-from-linked-list/)
