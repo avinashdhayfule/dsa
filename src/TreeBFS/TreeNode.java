@@ -1,4 +1,4 @@
-package TreeBFS;
+package src.TreeBFS;
 
 public class TreeNode {
     public int val;
