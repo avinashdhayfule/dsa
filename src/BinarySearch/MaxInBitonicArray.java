@@ -1,4 +1,4 @@
-package BinarySearch;
+package src.BinarySearch;
 
 public class MaxInBitonicArray {
     public static void main(String[] args) {
