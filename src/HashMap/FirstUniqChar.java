@@ -1,7 +1,6 @@
 package src.HashMap;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class FirstUniqChar {
     public int firstUniqChar(String s) {
@@ -16,6 +15,7 @@ public class FirstUniqChar {
             if(freqMap.getOrDefault(s.charAt(i), 0) == 1)
                 return i;
         }
+
 
         return -1;
     }

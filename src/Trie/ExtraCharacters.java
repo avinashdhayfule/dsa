@@ -37,11 +37,11 @@ public class ExtraCharacters {
         TrieNode node = root;
         for(int i = index; i < word.length(); i++){
             int indexOfChild = word.charAt(i) - 'a';
-            if(node.childrens[indexOfChild] == null){
+            node = node.childrens[indexOfChild];
+            if(node == null){
                 break;
             }
 
-            node = node.childrens[indexOfChild];
             if(node.isEndFlag){
                 result = Math.min(result, searchWord(word, i + 1, dp));
             }
